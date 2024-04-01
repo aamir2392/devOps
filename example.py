@@ -9,3 +9,5 @@ for i in range(0, n):
 	print()
 
 print("The above is a program to print Star Pattern")
+
+print("For checking file before age")
