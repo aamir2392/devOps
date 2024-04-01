@@ -7,3 +7,5 @@ for i in range(0, n):
 		alph += 1
 	alph = 65
 	print()
+
+print("The above is a program to print Star Pattern")
